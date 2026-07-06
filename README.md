@@ -5,12 +5,12 @@ A modern and responsive **Expense Tracker** frontend built with **React**. It pr
 ## Live Demo
 
 **Application URL:**  
-`<Add your deployed frontend URL here>`
+https://expense-tracker-application-by-umar.vercel.app
 
 ## Backend Repository
 
-**Repository URL:**  
-`<Add your backend repository URL here>`
+**Backend Repository:**  
+https://github.com/umarbashir-dotcom/expense-tracker-backend.git
 
 ## Features
 
